@@ -122,14 +122,3 @@ python3 main.py vm --vmid 101 --action stop
 * Currently built for **Linux CLI environments**.
 
 ---
-
-## 📜 License
-
-MIT License – feel free to use, modify, and contribute.
-
----
-
-```
-
-Do you want me to also add a **sample config file** section (like `config.json` for SSH credentials & defaults), or are you running this entirely with CLI flags?
-```
